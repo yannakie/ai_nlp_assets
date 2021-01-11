@@ -21,9 +21,9 @@ a week and threatens the ability of Congress meeting an April
 
 # WordNet-3.0
 
+C sources for a tool to use the data files (in the directory "/dict")
+ 
 * Example of content :
-
- C sources for a tool to use the data files (in the directory "/dict")
 
 * adjectif file ( 21500 lines )
 
