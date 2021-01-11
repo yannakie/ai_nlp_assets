@@ -74,7 +74,8 @@ Contains more than 2M sentences in different languages for SMT (translations)
 
 EN
 Resumption of the session
-I declare resumed the session of the European Parliament adjourned on Friday 17 December 1999,
+I declare resumed the session of the European Parliament adjourned on Friday 17 December 1999
+
 FR
 Reprise de la session
 Je déclare reprise la session du Parlement européen qui avait été interrompue le vendredi 17 décembre dernier
