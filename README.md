@@ -6,7 +6,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/
 
 * Example of content :
 
-<DATE >24-MAR-1987 16:07:44.11< /DATE>
+<DATE> 24-MAR-1987 16:07:44.11 </DATE>
 <PLACES><D>usa</D></PLACES>
 <TITLE>FEUD PERSISTS AT U.S. HOUSE BUDGET COMMITTTEE</TITLE>
 <DATELINE>    WASHINGTON, March 24 - </DATELINE>
