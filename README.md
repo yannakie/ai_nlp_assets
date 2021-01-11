@@ -1,6 +1,6 @@
 *Links to ressourcess for AI and NLP*
 
-# Reuters dataset : 
+# Reuters dataset (from 1996) : 
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/
 
@@ -48,5 +48,20 @@ inert a 3 3 & + ; 3 2 01565038 01930004 00034322
 
 https://msnews.github.io/index.html
 
-Anonymized behavior logs of Microsoft News website (News, clicks and navigation of users). Mostly for user behaivour studies (preferences) and for better click numbers 
+Anonymized behavior logs of Microsoft News website (news, clicks and navigation of users). Mostly for user behaivour studies (preferences) and for increasing clicks
+
+
+#  IMDB movie reviews
+
+https://www.kaggle.com/c/word2vec-nlp-tutorial/data
+
+* Example of content :
+
+"8196_8"	1	"I dont know why people think this is such a bad movie. Its got a pretty good plot, some good action, and the change of location for Harry does not hurt either. Sure some of its offensive and gratuitous but this is not the only movie like that. Eastwood is in good form as Dirty Harry, and I liked Pat Hingle in this movie as the small town cop. If you liked DIRTY HARRY, then you should see this one, its a lot better than THE DEAD POOL. 4/5"
+
+"7166_2"	0	"This movie could have been very good, but comes up way short. Cheesy special effects and so-so acting. I could have looked past that if the story wasn't so lousy. If there was more of a background story, it would have been better. The plot centers around an evil Druid witch who is linked to this woman who gets migraines. The movie drags on and on and never clearly explains anything, it just keeps plodding on. Christopher Walken has a part, but it is completely senseless, as is most of the movie. This movie had potential, but it looks like some really bad made for TV movie. I would avoid this movie."
+
+"10633_1"	0	"I watched this video at a friend's house. I'm glad I did not waste money buying this one. The video cover has a scene from the 1975 movie Capricorn One. The movie starts out with several clips of rocket blow-ups, most not related to manned flight. Sibrel's smoking gun is a short video clip of the astronauts preparing a video broadcast. He edits in his own voice-over instead of letting us listen to what the crew had to say. The video curiously ends with a showing of the Zapruder film. His claims about radiation, shielding, star photography, and others lead me to believe is he extremely ignorant or has some sort of ax to grind against NASA, the astronauts, or American in general. His science is bad, and so is this video."
+
+
 
