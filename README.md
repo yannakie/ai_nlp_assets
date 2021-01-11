@@ -1,6 +1,8 @@
 *Links to ressourcess for AI and NLP*
 
-# Reuters dataset : https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/
+# Reuters dataset : 
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/
 
 * Example of content :
 
