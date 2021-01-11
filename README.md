@@ -42,3 +42,11 @@ inert a 3 3 & + ; 3 2 01565038 01930004 00034322
 00963447 04 n 02 intifada 0 intifadah 0 001 @ 00962129 n 0000 | an uprising by Palestinian Arabs (in both the Gaza Strip and the West Bank) against Israel in the late 1980s and again in 2000; "the first intifada ended when Israel granted limited autonomy to the Palestine National Authority in 1993"  
 
 * other files also
+
+
+# Microsoft MIND dataset 
+
+https://msnews.github.io/index.html
+
+Anonymized behavior logs of Microsoft News website (News, clicks and navigation of users). Mostly for user behaivour studies (preferences) and for better click numbers 
+
