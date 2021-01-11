@@ -1,4 +1,4 @@
-*Links to ressources for AI and NLP
+*Links to ressources for AI and NLP*
 
 # Reuters dataset (from 1996) : 
 
