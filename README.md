@@ -21,11 +21,13 @@ a week and threatens the ability of Congress meeting an April
 
 # WordNet-3.0
 
+https://wordnet.princeton.edu/download/current-version
+
 C sources for a tool to use the data files (in the directory "/dict")
  
 * Example of content :
 
-* adjectif file ( 21500 lines )
+* adjective file ( 21500 lines )
 
 ineradicable a 1 3 ! & ^ 1 0 00898289  
 inerrable a 1 1 & 1 0 00965359  
@@ -33,8 +35,10 @@ inerrant a 1 2 & + 1 0 00965359
 inert a 3 3 & + ; 3 2 01565038 01930004 00034322  
 
 
-* nouns files ( 82144 lines )
+* noun file ( 82144 lines )
 
 00963057 04 n 01 counterrevolution 0 003 @ 00962722 n 0000 + 02845871 a 0101 + 09969869 n 0101 | a revolution whose aim is to reverse the changes introduced by a previous revolution  
 00963241 04 n 02 insurgency 0 insurgence 0 002 @ 00962129 n 0000 + 00963283 a 0101 | an organized rebellion aimed at overthrowing a constituted government through the use of subversion and armed conflict  
 00963447 04 n 02 intifada 0 intifadah 0 001 @ 00962129 n 0000 | an uprising by Palestinian Arabs (in both the Gaza Strip and the West Bank) against Israel in the late 1980s and again in 2000; "the first intifada ended when Israel granted limited autonomy to the Palestine National Authority in 1993"  
+
+* other files also
