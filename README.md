@@ -1,5 +1,7 @@
 *Links to ressources for AI and NLP*
 
+Mostly test and training sets that can be obtained easily in a few clicks. Other sources can be realy difficult to extract or require payment or downloading and running software to form the data (ie. CoNLL 2003...)
+
 # Reuters dataset (from 1996) : 
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/
