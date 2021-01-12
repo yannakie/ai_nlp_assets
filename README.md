@@ -87,8 +87,9 @@ And in many other languages
 A set of stories and questions that AI / NLP should answer
 
 https://github.com/vcvpaiva/MCTest-corpus
-https://github.com/vcvpaiva/IBM-vm-Verbs
 
+List of verbs and links to WordNet
+https://github.com/vcvpaiva/IBM-vm-Verbs
 
 Other related: 
 https://github.com/kkalouli/SICK-processing
