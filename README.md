@@ -96,6 +96,11 @@ Other related:
 
 https://github.com/kkalouli/SICK-processing
 
+# NLU SQuAD
+
+Questions and answers (Stanford)
+
+https://rajpurkar.github.io/SQuAD-explorer/
 
 
 # Links to AI / NLP / NLU courses (youtube)
