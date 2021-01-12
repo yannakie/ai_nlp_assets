@@ -84,7 +84,7 @@ And in many other languages
 
 # NLU : MCTest data 
 
-A set of stories and questions that AI / NLP should answer
+Question answering : a set of stories and questions that AI / NLP should answer
 
 https://github.com/vcvpaiva/MCTest-corpus
 
@@ -95,10 +95,6 @@ https://github.com/vcvpaiva/IBM-vm-Verbs
 Other related: 
 
 https://github.com/kkalouli/SICK-processing
-
-
-
-
 
 
 
