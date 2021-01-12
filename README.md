@@ -82,6 +82,18 @@ Je déclare reprise la session du Parlement européen qui avait été interrompu
 
 And in many other languages
 
+# NLU : MCTest data 
+
+A set of stories and questions that AI / NLP should answer
+
+https://github.com/vcvpaiva/MCTest-corpus
+https://github.com/vcvpaiva/IBM-vm-Verbs
+
+
+Other related: 
+https://github.com/kkalouli/SICK-processing
+
+
 
 
 
@@ -97,6 +109,7 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 Stanford NLP CS224N
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+
 
 
 
