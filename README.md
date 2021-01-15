@@ -114,7 +114,9 @@ or
 
 https://freebase-easy.cs.uni-freiburg.de/dump/
 
+# NLU Question answering
 
+https://github.com/brmson/dataset-factoid-curated
 
 # Links to AI / NLP / NLU courses (youtube)
 
