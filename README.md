@@ -106,7 +106,7 @@ https://rajpurkar.github.io/SQuAD-explorer/
 
 # NLU RELATION EXTRACTION
 
-Freebase from Google:
+Freebase from Google: concepts and all web pages that link to the same page on Wikipedia (this means that the concept is the same for the differnet links that point to the Wikipedia page, ie. New York and Big Apple)
 
 https://developers.google.com/freebase
 
