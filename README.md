@@ -104,6 +104,17 @@ Questions and answers (Stanford)
 
 https://rajpurkar.github.io/SQuAD-explorer/
 
+# NLU RELATION EXTRACTION
+
+Freebase from Google:
+
+https://developers.google.com/freebase
+
+or
+
+https://freebase-easy.cs.uni-freiburg.de/dump/
+
+
 
 # Links to AI / NLP / NLU courses (youtube)
 
