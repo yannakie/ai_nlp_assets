@@ -1,3 +1,8 @@
+#Links to ressources for AI and NLP (courses, datasets, projects)
+
+------------------------------------------------------
+------------------------------------------------------
+
 # Links to AI / NLP / NLU courses (youtube)
 
 Stanford AI CS221
@@ -8,8 +13,6 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 Stanford NLP CS224N
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
-
-#Links to ressources for AI and NLP (courses, datasets, projects)
 
 Stanford NLU CS224U
 https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
@@ -26,12 +29,8 @@ https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/playlists
 MIT 6.S191 (DL)
 https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
-
-
-
 ------------------------------------------------------
-
-
+------------------------------------------------------
 
 Mostly test and training sets that can be obtained easily in a few clicks. Other sources can be realy difficult to extract or require payment or downloading and running software to form the data (ie. CoNLL 2003...)
 
