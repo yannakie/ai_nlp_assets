@@ -145,4 +145,16 @@ https://freebase-easy.cs.uni-freiburg.de/dump/
 
 https://github.com/brmson/dataset-factoid-curated
 
+# Open Data on AWS (many data sets on different subjects and domains)
+https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc
+
+
+----------------
+
+# MTurk (tasks and jobs for the masses)
+https://www.mturk.com/get-started
+
+
+
+
 
