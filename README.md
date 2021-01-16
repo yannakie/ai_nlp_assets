@@ -140,3 +140,8 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ
 
 Cornell CS4780 (much more math)
 https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/playlists
+
+MIT 6.S191 (DL)
+https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
+
