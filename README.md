@@ -138,6 +138,5 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
 Stanford 2012 NLP
 https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ
 
-
-
-
+Cornell CS4780 (much more math)
+https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/playlists
