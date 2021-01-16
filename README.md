@@ -1,6 +1,3 @@
-# Links to ressources for AI and NLP (courses, datasets, projects)
-
-------------------------------------------------------
 
 # Links to AI / NLP / NLU courses (youtube)
 
