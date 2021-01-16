@@ -1,7 +1,6 @@
 # Links to ressources for AI and NLP (courses, datasets, projects)
 
 ------------------------------------------------------
-------------------------------------------------------
 
 # Links to AI / NLP / NLU courses (youtube)
 
@@ -29,7 +28,6 @@ https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/playlists
 MIT 6.S191 (DL)
 https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
-------------------------------------------------------
 ------------------------------------------------------
 
 Mostly test and training sets that can be obtained easily in a few clicks. Other sources can be realy difficult to extract or require payment or downloading and running software to form the data (ie. CoNLL 2003...)
