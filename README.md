@@ -151,6 +151,8 @@ https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDa
 
 ----------------
 
+Other ressources that may be interesting for AI / NLP
+
 # MTurk (tasks and jobs for the masses)
 https://www.mturk.com/get-started
 
