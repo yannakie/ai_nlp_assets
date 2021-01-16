@@ -1,4 +1,37 @@
-*Links to ressources for AI and NLP*
+# Links to AI / NLP / NLU courses (youtube)
+
+Stanford AI CS221
+https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX
+
+Stanford ML CS229
+https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
+Stanford NLP CS224N
+https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+
+#Links to ressources for AI and NLP (courses, datasets, projects)
+
+Stanford NLU CS224U
+https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+
+Stanford CS 330 NLP and general concepts
+https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
+
+Stanford 2012 NLP
+https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ
+
+Cornell CS4780 (much more math)
+https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/playlists
+
+MIT 6.S191 (DL)
+https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
+
+
+
+------------------------------------------------------
+
+
 
 Mostly test and training sets that can be obtained easily in a few clicks. Other sources can be realy difficult to extract or require payment or downloading and running software to form the data (ie. CoNLL 2003...)
 
@@ -117,31 +150,5 @@ https://freebase-easy.cs.uni-freiburg.de/dump/
 # NLU Question answering
 
 https://github.com/brmson/dataset-factoid-curated
-
-# Links to AI / NLP / NLU courses (youtube)
-
-Stanford AI CS221
-https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX
-
-Stanford ML CS229
-https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
-
-Stanford NLP CS224N
-https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
-
-Stanford NLU CS224U
-https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
-
-Stanford CS 330 NLP and general concepts
-https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
-
-Stanford 2012 NLP
-https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ
-
-Cornell CS4780 (much more math)
-https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/playlists
-
-MIT 6.S191 (DL)
-https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
 
